@@ -1,6 +1,6 @@
 ﻿/*
 * Jssor 18.0
-* http://www.jssor.com/
+* https://www.jssor.com/
 * 
 * TERMS OF USE - Jssor
 * 
@@ -737,7 +737,7 @@ var $Jssor$ = window.$Jssor$ = new function () {
     //    var result = Point();
 
     //    // technique from:
-    //    // http://www.quirksmode.org/js/findpos.html
+    //    // https://www.quirksmode.org/js/findpos.html
     //    // with special check for "fixed" elements.
 
     //    while (elmt) {
@@ -761,7 +761,7 @@ var $Jssor$ = window.$Jssor$ = new function () {
     //    var delta = 0; // default value
 
     //    // technique from:
-    //    // http://blog.paranoidferret.com/index.php/2007/10/31/javascript-tutorial-the-scroll-wheel/
+    //    // https://blog.paranoidferret.com/index.php/2007/10/31/javascript-tutorial-the-scroll-wheel/
 
     //    if (typeof (event.wheelDelta) == "number") {
     //        delta = event.wheelDelta;
@@ -1158,7 +1158,7 @@ var $Jssor$ = window.$Jssor$ = new function () {
         elmt = _This.$GetElement(elmt);
 
         // technique from:
-        // http://blog.paranoidferret.com/index.php/2007/08/10/javascript-working-with-events/
+        // https://blog.paranoidferret.com/index.php/2007/08/10/javascript-working-with-events/
 
         if (elmt.addEventListener) {
             if (eventName == "mousewheel") {
@@ -1187,7 +1187,7 @@ var $Jssor$ = window.$Jssor$ = new function () {
         elmt = _This.$GetElement(elmt);
 
         // technique from:
-        // http://blog.paranoidferret.com/index.php/2007/08/10/javascript-working-with-events/
+        // https://blog.paranoidferret.com/index.php/2007/08/10/javascript-working-with-events/
 
         if (elmt.removeEventListener) {
             if (eventName == "mousewheel") {
@@ -1255,7 +1255,7 @@ var $Jssor$ = window.$Jssor$ = new function () {
         event = GetEvent(event);
 
         // technique from:
-        // http://blog.paranoidferret.com/index.php/2007/08/10/javascript-working-with-events/
+        // https://blog.paranoidferret.com/index.php/2007/08/10/javascript-working-with-events/
 
         if (event.preventDefault) {
             event.preventDefault();     // W3C for preventing default
@@ -1269,7 +1269,7 @@ var $Jssor$ = window.$Jssor$ = new function () {
         event = GetEvent(event);
 
         // technique from:
-        // http://blog.paranoidferret.com/index.php/2007/08/10/javascript-working-with-events/
+        // https://blog.paranoidferret.com/index.php/2007/08/10/javascript-working-with-events/
 
         if (event.stopPropagation) {
             event.stopPropagation();    // W3C for stopping propagation

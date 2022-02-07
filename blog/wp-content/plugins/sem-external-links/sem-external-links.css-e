@@ -1,0 +1,4 @@
+a.external_icon {
+	background: url(https://stevenchu.com/blog/wp-content/plugins/sem-external-links/external.png) center right no-repeat;
+	padding-right: 13px;
+}

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 		<link>https://stevenchu.com/blog/paul-bermudez-ford-models-new-york/#comment-162</link>
 		<dc:creator><![CDATA[New York Wedding Photographer]]></dc:creator>
 		<pubDate>Mon, 14 Nov 2011 04:37:00 +0000</pubDate>
-		<guid isPermaLink="false">http://steevay.com/blog/?p=446#comment-162</guid>
+		<guid isPermaLink="false">https://steevay.com/blog/?p=446#comment-162</guid>
 		<description><![CDATA[wew!, he looks like my father and my brother but his wardrove was stunning, i like to get one of those by December.  i am serious about that..]]></description>
 		<content:encoded><![CDATA[<p>wew!, he looks like my father and my brother but his wardrove was stunning, i like to get one of those by December.  i am serious about that..</p>
 ]]></content:encoded>

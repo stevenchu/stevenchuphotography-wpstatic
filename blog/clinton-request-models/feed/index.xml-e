@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Clinton @ Request models</title>
+	<atom:link href="https://stevenchu.com/blog/clinton-request-models/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stevenchu.com/blog/clinton-request-models/</link>
+	<description>Happenings Around The Big Apple</description>
+	<lastBuildDate>Mon, 14 Nov 2011 04:37:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.26</generator>
+	<item>
+		<title>By: william</title>
+		<link>https://stevenchu.com/blog/clinton-request-models/#comment-14</link>
+		<dc:creator><![CDATA[william]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2009 22:44:50 +0000</pubDate>
+		<guid isPermaLink="false">http://steevay.com/blog/?p=600#comment-14</guid>
+		<description><![CDATA[this I love!! so mysterious, and those angles !]]></description>
+		<content:encoded><![CDATA[<p>this I love!! so mysterious, and those angles !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

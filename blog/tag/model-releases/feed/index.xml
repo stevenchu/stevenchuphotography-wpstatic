@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -26,15 +26,15 @@
 				<category><![CDATA[Good Reads]]></category>
 		<category><![CDATA[model releases]]></category>
 
-		<guid isPermaLink="false">http://stevenchustudio.com/blog/?p=1136</guid>
+		<guid isPermaLink="false">https://stevenchustudio.com/blog/?p=1136</guid>
 		<description><![CDATA[<p>I came across some terrific articles written by Dan Heller tonight. They&#8217;re the most comprehensive (much more so than the ASMP&#8217;s site) guide to understanding the huge fuzzy unknown area of if a [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://stevenchu.com/blog/great-articles-on-understanding-model-releases/">Great Articles on Understanding Model Releases</a> appeared first on <a rel="nofollow" href="https://stevenchu.com/blog">Steven Chu Event Photos</a>.</p>
 ]]></description>
 				<content:encoded><![CDATA[<p>I came across some terrific articles written by Dan Heller tonight. They&#8217;re the most comprehensive (much more so than the ASMP&#8217;s site) guide to understanding the huge fuzzy unknown area of if a photographer even needs a model release, and what you can do legally with the photos you take.</p>
 <p>It takes about 2 hours to read and digest it all, but it&#8217;s as good as taking a course!</p>
-<p>Start with reading the <b><a target="_blank" href="http://www.danheller.com/model-release-primer.html">Model Release Primer: http://www.danheller.com/model-release-primer.html</a></b></p>
-<p>Then read the full article on <b><a target="_blank" href="http://www.danheller.com/model-release.html">Model Releases: http://www.danheller.com/model-release.html</a></b></p>
-<p>And finish with <b><a target="_blank" href="http://www.danheller.com/blog/posts/when-editorial-uses-of-photos-require.html">When Editorial Uses Require Model Releases: http://www.danheller.com/blog/posts/when-editorial-uses-of-photos-require.html</a></b></p>
+<p>Start with reading the <b><a target="_blank" href="https://www.danheller.com/model-release-primer.html">Model Release Primer: https://www.danheller.com/model-release-primer.html</a></b></p>
+<p>Then read the full article on <b><a target="_blank" href="https://www.danheller.com/model-release.html">Model Releases: https://www.danheller.com/model-release.html</a></b></p>
+<p>And finish with <b><a target="_blank" href="https://www.danheller.com/blog/posts/when-editorial-uses-of-photos-require.html">When Editorial Uses Require Model Releases: https://www.danheller.com/blog/posts/when-editorial-uses-of-photos-require.html</a></b></p>
 <p>The main lessons I learned were:</p>
 <ul>
 <li>There are only disputes on HOW an image is published, not THAT it is taken. You can always take a photo, of a person or crowd or building etc. so long as you&#8217;re not illegally trespassing on property as a peeping tom. Deal with usage later.</li>
@@ -43,9 +43,9 @@
 <li>Editorial content typically does not require a release. You can take a photo, sell it or give permission to a newspaper to run it, all without needing a release.</li>
 <li>Artwork is covered under freedom of speech and almost never needs a model release. You can openly display photos you&#8217;ve taken on your own site, in a gallery, and sell prints.</li>
 </ul>
-<div class='dd_post_share'><div class='dd_buttons'><div class='dd_button'><a href="http://bufferapp.com/add" class="buffer-add-button" data-count="vertical" data-url="https://stevenchu.com/blog/great-articles-on-understanding-model-releases/">Buffer</a><script type="text/javascript" src="http://static.bufferapp.com/js/button.js"></script></div><div class='dd_button'><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://stevenchu.com/blog/great-articles-on-understanding-model-releases/" data-count="vertical" data-text="Great Articles on Understanding Model Releases" data-via="" ></a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div class='dd_button'><a name='fb_share' type='box_count' share_url='https://stevenchu.com/blog/great-articles-on-understanding-model-releases/' href='http://www.facebook.com/sharer.php'></a><script src='http://static.ak.fbcdn.net/connect.php/js/FB.Share' type='text/javascript'></script></div><div class='dd_button'><iframe src='http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fstevenchu.com%2Fblog%2Fgreat-articles-on-understanding-model-releases%2F&amp;locale=en_US&amp;layout=box_count&amp;action=like&amp;width=50&amp;height=60&amp;colorscheme=light' scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:50px; height:60px;' allowTransparency='true'></iframe></div><div class='dd_button'><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="https://stevenchu.com/blog/great-articles-on-understanding-model-releases/" send="false" show_faces="false"  layout="box_count" width="50"  ></fb:like></div></div><div style='clear:both'></div></div><!-- Social Buttons Generated by Digg Digg plugin v5.3.6,
+<div class='dd_post_share'><div class='dd_buttons'><div class='dd_button'><a href="https://bufferapp.com/add" class="buffer-add-button" data-count="vertical" data-url="https://stevenchu.com/blog/great-articles-on-understanding-model-releases/">Buffer</a><script type="text/javascript" src="https://static.bufferapp.com/js/button.js"></script></div><div class='dd_button'><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://stevenchu.com/blog/great-articles-on-understanding-model-releases/" data-count="vertical" data-text="Great Articles on Understanding Model Releases" data-via="" ></a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script></div><div class='dd_button'><a name='fb_share' type='box_count' share_url='https://stevenchu.com/blog/great-articles-on-understanding-model-releases/' href='https://www.facebook.com/sharer.php'></a><script src='https://static.ak.fbcdn.net/connect.php/js/FB.Share' type='text/javascript'></script></div><div class='dd_button'><iframe src='https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fstevenchu.com%2Fblog%2Fgreat-articles-on-understanding-model-releases%2F&amp;locale=en_US&amp;layout=box_count&amp;action=like&amp;width=50&amp;height=60&amp;colorscheme=light' scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:50px; height:60px;' allowTransparency='true'></iframe></div><div class='dd_button'><script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="https://stevenchu.com/blog/great-articles-on-understanding-model-releases/" send="false" show_faces="false"  layout="box_count" width="50"  ></fb:like></div></div><div style='clear:both'></div></div><!-- Social Buttons Generated by Digg Digg plugin v5.3.6,
     Author : Buffer, Inc
-    Website : http://bufferapp.com/diggdigg --><p>The post <a rel="nofollow" href="https://stevenchu.com/blog/great-articles-on-understanding-model-releases/">Great Articles on Understanding Model Releases</a> appeared first on <a rel="nofollow" href="https://stevenchu.com/blog">Steven Chu Event Photos</a>.</p>
+    Website : https://bufferapp.com/diggdigg --><p>The post <a rel="nofollow" href="https://stevenchu.com/blog/great-articles-on-understanding-model-releases/">Great Articles on Understanding Model Releases</a> appeared first on <a rel="nofollow" href="https://stevenchu.com/blog">Steven Chu Event Photos</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://stevenchu.com/blog/great-articles-on-understanding-model-releases/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

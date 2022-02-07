@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 		<link>https://stevenchu.com/blog/paul-bermudez-ford-models-new-york/#comment-162</link>
 		<dc:creator><![CDATA[New York Wedding Photographer]]></dc:creator>
 		<pubDate>Mon, 14 Nov 2011 04:37:00 +0000</pubDate>
-		<guid isPermaLink="false">http://steevay.com/blog/?p=446#comment-162</guid>
+		<guid isPermaLink="false">https://steevay.com/blog/?p=446#comment-162</guid>
 		<description><![CDATA[wew!, he looks like my father and my brother but his wardrove was stunning, i like to get one of those by December.  i am serious about that..]]></description>
 		<content:encoded><![CDATA[<p>wew!, he looks like my father and my brother but his wardrove was stunning, i like to get one of those by December.  i am serious about that..</p>
 ]]></content:encoded>
@@ -39,7 +39,7 @@
 		<link>https://stevenchu.com/blog/congratulations-steven-chu-for-heather-huey-in-vogue-italia-september-2010/#comment-153</link>
 		<dc:creator><![CDATA[Kyle Rodriguez]]></dc:creator>
 		<pubDate>Sat, 23 Oct 2010 05:14:46 +0000</pubDate>
-		<guid isPermaLink="false">http://stevenchustudio.com/blog/?p=1690#comment-153</guid>
+		<guid isPermaLink="false">https://stevenchustudio.com/blog/?p=1690#comment-153</guid>
 		<description><![CDATA[Props to You!!!]]></description>
 		<content:encoded><![CDATA[<p>Props to You!!!</p>
 ]]></content:encoded>
@@ -49,7 +49,7 @@
 		<link>https://stevenchu.com/blog/congratulations-steven-chu-for-heather-huey-in-vogue-italia-september-2010/#comment-149</link>
 		<dc:creator><![CDATA[John Michael Fulton]]></dc:creator>
 		<pubDate>Sat, 23 Oct 2010 03:05:00 +0000</pubDate>
-		<guid isPermaLink="false">http://stevenchustudio.com/blog/?p=1690#comment-149</guid>
+		<guid isPermaLink="false">https://stevenchustudio.com/blog/?p=1690#comment-149</guid>
 		<description><![CDATA[Beautiful.]]></description>
 		<content:encoded><![CDATA[<p>Beautiful.</p>
 ]]></content:encoded>
@@ -59,7 +59,7 @@
 		<link>https://stevenchu.com/blog/local-natives-the-echo-12-22-09-los-angeles-ca/#comment-20</link>
 		<dc:creator><![CDATA[Jeey]]></dc:creator>
 		<pubDate>Wed, 23 Dec 2009 22:24:29 +0000</pubDate>
-		<guid isPermaLink="false">http://stevenchustudio.com/blog/?p=1007#comment-20</guid>
+		<guid isPermaLink="false">https://stevenchustudio.com/blog/?p=1007#comment-20</guid>
 		<description><![CDATA[Local Natives were ok very likeable but I was a lot more impressed by the songs of Voxhaul Broadcast and their more intense performance.]]></description>
 		<content:encoded><![CDATA[<p>Local Natives were ok very likeable but I was a lot more impressed by the songs of Voxhaul Broadcast and their more intense performance.</p>
 ]]></content:encoded>
@@ -69,7 +69,7 @@
 		<link>https://stevenchu.com/blog/local-natives-the-echo-12-22-09-los-angeles-ca/#comment-19</link>
 		<dc:creator><![CDATA[Janna]]></dc:creator>
 		<pubDate>Wed, 23 Dec 2009 20:31:20 +0000</pubDate>
-		<guid isPermaLink="false">http://stevenchustudio.com/blog/?p=1007#comment-19</guid>
+		<guid isPermaLink="false">https://stevenchustudio.com/blog/?p=1007#comment-19</guid>
 		<description><![CDATA[I went to see what everyone is talking about with Local Natives &#038; Voxhaul Broadcast.  I too liked the bass player style for LN but other than a few harmonizing tunes I wasn&#039;t impressed.  I did like the new tunes from VB and like many others is expecting big things from Voxhaul in 2010.]]></description>
 		<content:encoded><![CDATA[<p>I went to see what everyone is talking about with Local Natives &amp; Voxhaul Broadcast.  I too liked the bass player style for LN but other than a few harmonizing tunes I wasn&#8217;t impressed.  I did like the new tunes from VB and like many others is expecting big things from Voxhaul in 2010.</p>
 ]]></content:encoded>
@@ -79,7 +79,7 @@
 		<link>https://stevenchu.com/blog/local-natives-the-echo-12-22-09-los-angeles-ca/#comment-18</link>
 		<dc:creator><![CDATA[jim]]></dc:creator>
 		<pubDate>Wed, 23 Dec 2009 19:10:35 +0000</pubDate>
-		<guid isPermaLink="false">http://stevenchustudio.com/blog/?p=1007#comment-18</guid>
+		<guid isPermaLink="false">https://stevenchustudio.com/blog/?p=1007#comment-18</guid>
 		<description><![CDATA[I found Local Natives to be a bit boring and the front guys looking more like 70&#039;s tv shows like Grizzy Adams &#038; Chips.  I did enjoy the opener Voxhaul Broadcast reminds me of earily Nirvana before they got big.]]></description>
 		<content:encoded><![CDATA[<p>I found Local Natives to be a bit boring and the front guys looking more like 70&#8217;s tv shows like Grizzy Adams &amp; Chips.  I did enjoy the opener Voxhaul Broadcast reminds me of earily Nirvana before they got big.</p>
 ]]></content:encoded>
@@ -89,7 +89,7 @@
 		<link>https://stevenchu.com/blog/lani-nguyen/#comment-17</link>
 		<dc:creator><![CDATA[lani nguyen]]></dc:creator>
 		<pubDate>Thu, 10 Sep 2009 18:38:29 +0000</pubDate>
-		<guid isPermaLink="false">http://steevay.com/blog/?p=623#comment-17</guid>
+		<guid isPermaLink="false">https://steevay.com/blog/?p=623#comment-17</guid>
 		<description><![CDATA[if you search &quot;lani nguyen&quot; this comes up on the first page of search results]]></description>
 		<content:encoded><![CDATA[<p>if you search &#8220;lani nguyen&#8221; this comes up on the first page of search results</p>
 ]]></content:encoded>
@@ -99,7 +99,7 @@
 		<link>https://stevenchu.com/blog/clinton-request-models/#comment-14</link>
 		<dc:creator><![CDATA[william]]></dc:creator>
 		<pubDate>Tue, 04 Aug 2009 22:44:50 +0000</pubDate>
-		<guid isPermaLink="false">http://steevay.com/blog/?p=600#comment-14</guid>
+		<guid isPermaLink="false">https://steevay.com/blog/?p=600#comment-14</guid>
 		<description><![CDATA[this I love!! so mysterious, and those angles !]]></description>
 		<content:encoded><![CDATA[<p>this I love!! so mysterious, and those angles !</p>
 ]]></content:encoded>
@@ -109,7 +109,7 @@
 		<link>https://stevenchu.com/blog/sweet-charity-a-shimmy-for-your-monday/#comment-10</link>
 		<dc:creator><![CDATA[William]]></dc:creator>
 		<pubDate>Mon, 08 Jun 2009 16:47:09 +0000</pubDate>
-		<guid isPermaLink="false">http://steevay.com/blog/?p=282#comment-10</guid>
+		<guid isPermaLink="false">https://steevay.com/blog/?p=282#comment-10</guid>
 		<description><![CDATA[No monday could go dull with this stuff, thanks for sharing!]]></description>
 		<content:encoded><![CDATA[<p>No monday could go dull with this stuff, thanks for sharing!</p>
 ]]></content:encoded>

@@ -232,7 +232,7 @@ jQuery(document).ready(function($) {
 
 			container.attr('itemscope', '');
 
-			container.attr('itemtype', 'http://schema.org/ImageGallery');
+			container.attr('itemtype', 'https://schema.org/ImageGallery');
 
 			container.css({
 					'position'   : 'fixed',
@@ -875,7 +875,7 @@ jQuery(document).ready(function($) {
 						.css( 'width', '100%' )
 						.css( 'height', '100%' );
 
-					var slide = $('<div class="jp-carousel-slide" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"></div>')
+					var slide = $('<div class="jp-carousel-slide" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject"></div>')
 							.hide()
 							.css({
 								//'position' : 'fixed',
@@ -1052,7 +1052,7 @@ jQuery(document).ready(function($) {
 			if ( !value.match(' ') && value.match('_') ) {
 				return '';
 			}
-			// Prefix list originally based on http://commons.wikimedia.org/wiki/MediaWiki:Filename-prefix-blacklist
+			// Prefix list originally based on https://commons.wikimedia.org/wiki/MediaWiki:Filename-prefix-blacklist
 			$([
 				'CIMG',                   // Casio
 				'DSC_',                   // Nikon
@@ -1449,7 +1449,7 @@ jQuery(document).ready(function($) {
  * jQuery Plugin to obtain touch gestures from iPhone, iPod Touch and iPad, should also work with Android mobile phones (not tested yet!)
  * Common usage: wipe images (left and right to show the previous or next image)
  *
- * @author Andreas Waltl, netCU Internetagentur (http://www.netcu.de)
+ * @author Andreas Waltl, netCU Internetagentur (https://www.netcu.de)
  * Version 1.1.1, modified to pass the touchmove event to the callbacks.
  */
 (function($) {

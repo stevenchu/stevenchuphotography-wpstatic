@@ -1,7 +1,7 @@
 
 /*
 	Coin Slider jQuery plugin CSS styles
-	http://workshop.rs/projects/coin-slider
+	https://workshop.rs/projects/coin-slider
 */
 
 

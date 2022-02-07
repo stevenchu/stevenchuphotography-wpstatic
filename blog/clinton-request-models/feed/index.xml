@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 		<link>https://stevenchu.com/blog/clinton-request-models/#comment-14</link>
 		<dc:creator><![CDATA[william]]></dc:creator>
 		<pubDate>Tue, 04 Aug 2009 22:44:50 +0000</pubDate>
-		<guid isPermaLink="false">http://steevay.com/blog/?p=600#comment-14</guid>
+		<guid isPermaLink="false">https://steevay.com/blog/?p=600#comment-14</guid>
 		<description><![CDATA[this I love!! so mysterious, and those angles !]]></description>
 		<content:encoded><![CDATA[<p>this I love!! so mysterious, and those angles !</p>
 ]]></content:encoded>

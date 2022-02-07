@@ -5,12 +5,12 @@
  * @author Dave Cardwell
  *
  * jQuery-Em - $Revision: 24 $ ($Date: 2007-08-19 11:24:56 +0100 (Sun, 19 Aug 2007) $)
- * http://davecardwell.co.uk/javascript/jquery/plugins/jquery-em/
+ * https://davecardwell.co.uk/javascript/jquery/plugins/jquery-em/
  *
- * Copyright ©2007 Dave Cardwell <http://davecardwell.co.uk/>
+ * Copyright ©2007 Dave Cardwell <https://davecardwell.co.uk/>
  *
  * Released under the MIT licence:
- * http://www.opensource.org/licenses/mit-license.php
+ * https://www.opensource.org/licenses/mit-license.php
  */
 
 // Upon $(document).ready()…

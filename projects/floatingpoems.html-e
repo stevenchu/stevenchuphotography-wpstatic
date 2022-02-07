@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Steven Chu Studio focuses on image engineering [from photographic image, the image for a brand, or experimental visuals for artists]. New York - Los Angeles."/>
+<meta name="keywords" content="stevenchu.com stevenchustudio.com image engineering engineer creative brand branding consulting symbolist surrealism surreal new york los angeles reflective dark night photography"/>
+<meta name="google-site-verification" content="gUxNNJAOJ3BMGchY5IFMPOWyiZLPMQD9L6EEu1L7Z7A" />
+<meta name="author" content="Steven Chu"/>
+<meta name="copyright" content="Steven Chu 2011"/>
+<title>Steven Chu Studio | Projects: Floating Poems - New York - Photography - Image Engineering [ brand image & experimental visuals ]</title>
+<link rel="stylesheet" type="text/css" href="https://stevenchu.com/media.css" />
+<link rel="stylesheet" type="text/css" href="https://stevenchu.com/b23b.css" />
+<link rel="alternate stylesheet" type="text/css" media="screen" title="wh-theme" href="https://stevenchu.com/w2kj3.css" />
+<link rel="apple-touch-icon-precomposed" href="https://stevenchu.com/apple-touch-icon.png"/>
+<link rel="apple-touch-icon-precomposed" href="https://stevenchu.com/apple-touch-icon-72.png" sizes="72x72"/>
+<link rel="apple-touch-icon-precomposed" href="https://stevenchu.com/apple-touch-icon-114.png" sizes="114x114"/>
+<link rel="icon" href="https://stevenchu.com/favicon32.png" sizes="32x32" /> 
+<link rel="icon" href="https://stevenchu.com/favicon48.png" sizes="48x48" /> 
+<link rel="icon" href="https://stevenchu.com/favicon64.png" sizes="64x64" />
+<script type="text/javascript" src="https://stevenchu.com/assets/tempx389hg2dkwkdjga.js"></script>
+</head>
+<body> 
+	<script language="Javascript" src="https://stevenchu.com/assets/myscr345932.js"></script>
+
+	<style>
+	
+	body {
+		/* IE10 */ 
+		background-image: -ms-radial-gradient(center bottom, circle cover, #060926 0%, #000000 70%);
+
+		/* Mozilla Firefox */ 
+		background-image: -moz-radial-gradient(center bottom, circle cover, #060926 0%, #000000 70%);
+
+		/* Opera */ 
+		background-image: -o-radial-gradient(center bottom, circle cover, #060926 0%, #000000 70%);
+
+		/* Webkit (Safari/Chrome 10) */ 
+		background-image: -webkit-gradient(radial, center bottom, 0, center bottom, 559, color-stop(0, #060926), color-stop(.7, #000000));
+
+		/* Webkit (Chrome 11+) */ 
+		background-image: -webkit-radial-gradient(center bottom, circle cover, #060926 0%, #000000 70%);
+
+		/* Proposed W3C Markup */ 
+		background-image: radial-gradient(center bottom, circle cover, #060926 0%, #000000 70%);
+	}
+
+	.contentbox {
+		width:900px;
+		margin: 10px auto;	
+	}
+
+	.scrollBg {
+		background-image: url(https://stevenchu.com/projects/pattern_2.jpg);
+		background-color: #000000;
+		width: 900px;
+		height: 900px;
+		/*border:8px double black;*/
+		overflow:hidden;
+	}
+
+	.scrollBg  img {
+		display: block;
+	}
+	
+	h1.stealth {text-indent:-1000em;height:5px;width:5px;position:absolute;z-index:-1;margin:0;padding:0;}
+	</style>	
+	<script type="text/javascript" src="https://stevenchu.com/projects/floatingpoems/assets/jquery.min.js"></script>
+	<script type="text/javascript">
+		var scrollSpeed = 70;
+		var step = 1;
+		var current = 0;
+		var imageWidth = 2247;
+		var headerWidth = 560;		
+
+		var restartPosition = -(imageWidth - headerWidth);
+
+		function scrollBg(){
+			current -= step;
+			if (current == restartPosition){
+				current = 0;
+			}
+
+			$('#animate-area').css("background-position",current+"px 0");
+		}
+
+		var init = setInterval("scrollBg()", scrollSpeed);
+	</script>
+	<script type="text/javascript" src="https://stevenchu.com/projects/floatingpoems/assets/move-bg.js"></script>
+	
+	<script type="text/javascript"> 
+			$(document).ready(function() {
+
+				moveBgAround();
+
+			});
+
+			function moveBgAround() {
+				var x = Math.floor(Math.random()*401);
+				var y = Math.floor(Math.random()*401);
+
+				var time = Math.floor(Math.random()*1001) + 4000;
+
+				$('.scrollBg').animate({
+					backgroundPosition: '(' + (x * -1) + 'px ' + (y * -1) + 'px)'
+				}, time, "swing", function() {
+					moveBgAround();
+				});
+			}
+
+		</script>
+		<h1 class="stealth">Floating Poems - Experimental Visuals with Jquery</h1>
+
+	<div class="contentbox">
+		<div class="scrollBg" style="background-image: url(https://stevenchu.com/projects/floatingpoems/floatingpoems_futureandthepast_water.jpg); background-position: -121.66984039688546px -127.27466185083506px; ">
+			<img src="https://stevenchu.com/projects/floatingpoems/floatingpoems_futureandthepast.png" alt="Floating Poems - The Future & The Past">
+		</div>
+
+	</div>
+
+	<script language='Javascript'>
+	<!--
+	document.write(unescape('%3C%69%6D%67%20%63%6C%61%73%73%3D%22%62%32%22%20%73%72%63%3D%22%61%73%73%65%74%73%2F%73%63%62%67%5F%62%6C%6B%2E%6A%70%67%22%3E%0A%3C%69%6D%67%20%63%6C%61%73%73%3D%22%62%32%22%20%73%72%63%3D%22%61%73%73%65%74%73%2F%73%63%62%67%2E%6A%70%67%22%3E%0A'));
+	//-->
+	</script><script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-1606646-2");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+
+	</body>
+	<!-- InstanceEnd --></html>

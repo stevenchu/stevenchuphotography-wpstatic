@@ -1,6 +1,6 @@
 /**
  * @preserve Galleria Fullscreen Theme 2012-01-25
- * http://galleria.aino.se
+ * https://galleria.aino.se
  *
  * Copyright (c) 2011, Aino
  * Copyright (c) 2012, Petri Damstén

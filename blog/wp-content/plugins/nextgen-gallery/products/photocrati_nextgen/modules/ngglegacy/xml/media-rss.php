@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/' xmlns:atom='http://www.w3.org/2005/Atom'>
+<rss version='2.0' xmlns:media='https://search.yahoo.com/mrss/' xmlns:atom='https://www.w3.org/2005/Atom'>
 	<channel>
 		<generator><![CDATA[NextGEN Gallery [https://www.imagely.com/wordpress-gallery-plugin/nextgen-gallery/]]]></generator>
 		<title>Steven Chu Event Photos</title>

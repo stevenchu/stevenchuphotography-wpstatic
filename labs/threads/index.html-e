@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>THREADS New York - Claude Grant x Steven Chu</title>
+</head>
+	<body>
+<style>
+body {position:relative;}
+.container {margin:0 auto;}
+
+.inner1 {z-index:2;position:absolute;left:50%;margin-left:-140px;top:50px;}
+.inner1 img{border-radius: 50px;width:260px;display:inline-block;}
+
+.shadow {
+   -moz-box-shadow:    inset 0 0 10px #000000;
+   -webkit-box-shadow: inset 0 0 10px #000000;
+   box-shadow:         inset 0 0 10px #000000;
+}
+.one-edge-shadow {
+	-webkit-box-shadow: 0 10px 6px -6px #666;
+	   -moz-box-shadow: 0 10px 6px -6px #666;
+	        box-shadow: 0 10px 6px -6px #666;
+}
+
+.inner2 {z-index:1;position:absolute;left:50%;margin-left:-400px;top:30px;}
+
+.inner2 img {width:800px;}
+.inner2 span {clear:both;display:block;}
+
+.link_white, .link_white a {color:black;font-family:Georgia,"Times New Roman",serif;font-style:italic;font-size:11px;margin-bottom:10px;text-decoration:none;}
+
+</style>
+
+<div class="container">
+	
+	        <div class="inner1">
+	            <img class="one-edge-shadow" src="https://stevenchu.com/labs/threads/claude_tumble_300.gif" alt="THREADS New York">
+	        </div>
+	        <div class="inner2">
+	            <img src="https://stevenchu.com/labs/threads/threads_claudegrant.jpg" alt="This white dress shirt is naturally suspended. It is not a photoshop effect.">
+	
+				<span class="link_white"><a href="https://stevenchu.com/">Photography & Code by <strong>Steven Chu</strong></a>, naturally suspended white dress shirt designed by <strong>THREADS New York</strong>.</span>
+	
+	        </div>
+
+</div> <!--container-->
+
+</body>
+</html>

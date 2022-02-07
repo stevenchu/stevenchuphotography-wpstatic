@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 		<link>https://stevenchu.com/blog/sweet-charity-a-shimmy-for-your-monday/#comment-10</link>
 		<dc:creator><![CDATA[William]]></dc:creator>
 		<pubDate>Mon, 08 Jun 2009 16:47:09 +0000</pubDate>
-		<guid isPermaLink="false">http://steevay.com/blog/?p=282#comment-10</guid>
+		<guid isPermaLink="false">https://steevay.com/blog/?p=282#comment-10</guid>
 		<description><![CDATA[No monday could go dull with this stuff, thanks for sharing!]]></description>
 		<content:encoded><![CDATA[<p>No monday could go dull with this stuff, thanks for sharing!</p>
 ]]></content:encoded>

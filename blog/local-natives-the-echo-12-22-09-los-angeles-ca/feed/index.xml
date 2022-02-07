@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 		<link>https://stevenchu.com/blog/local-natives-the-echo-12-22-09-los-angeles-ca/#comment-20</link>
 		<dc:creator><![CDATA[Jeey]]></dc:creator>
 		<pubDate>Wed, 23 Dec 2009 22:24:29 +0000</pubDate>
-		<guid isPermaLink="false">http://stevenchustudio.com/blog/?p=1007#comment-20</guid>
+		<guid isPermaLink="false">https://stevenchustudio.com/blog/?p=1007#comment-20</guid>
 		<description><![CDATA[Local Natives were ok very likeable but I was a lot more impressed by the songs of Voxhaul Broadcast and their more intense performance.]]></description>
 		<content:encoded><![CDATA[<p>Local Natives were ok very likeable but I was a lot more impressed by the songs of Voxhaul Broadcast and their more intense performance.</p>
 ]]></content:encoded>
@@ -29,7 +29,7 @@
 		<link>https://stevenchu.com/blog/local-natives-the-echo-12-22-09-los-angeles-ca/#comment-19</link>
 		<dc:creator><![CDATA[Janna]]></dc:creator>
 		<pubDate>Wed, 23 Dec 2009 20:31:20 +0000</pubDate>
-		<guid isPermaLink="false">http://stevenchustudio.com/blog/?p=1007#comment-19</guid>
+		<guid isPermaLink="false">https://stevenchustudio.com/blog/?p=1007#comment-19</guid>
 		<description><![CDATA[I went to see what everyone is talking about with Local Natives &#038; Voxhaul Broadcast.  I too liked the bass player style for LN but other than a few harmonizing tunes I wasn&#039;t impressed.  I did like the new tunes from VB and like many others is expecting big things from Voxhaul in 2010.]]></description>
 		<content:encoded><![CDATA[<p>I went to see what everyone is talking about with Local Natives &amp; Voxhaul Broadcast.  I too liked the bass player style for LN but other than a few harmonizing tunes I wasn&#8217;t impressed.  I did like the new tunes from VB and like many others is expecting big things from Voxhaul in 2010.</p>
 ]]></content:encoded>
@@ -39,7 +39,7 @@
 		<link>https://stevenchu.com/blog/local-natives-the-echo-12-22-09-los-angeles-ca/#comment-18</link>
 		<dc:creator><![CDATA[jim]]></dc:creator>
 		<pubDate>Wed, 23 Dec 2009 19:10:35 +0000</pubDate>
-		<guid isPermaLink="false">http://stevenchustudio.com/blog/?p=1007#comment-18</guid>
+		<guid isPermaLink="false">https://stevenchustudio.com/blog/?p=1007#comment-18</guid>
 		<description><![CDATA[I found Local Natives to be a bit boring and the front guys looking more like 70&#039;s tv shows like Grizzy Adams &#038; Chips.  I did enjoy the opener Voxhaul Broadcast reminds me of earily Nirvana before they got big.]]></description>
 		<content:encoded><![CDATA[<p>I found Local Natives to be a bit boring and the front guys looking more like 70&#8217;s tv shows like Grizzy Adams &amp; Chips.  I did enjoy the opener Voxhaul Broadcast reminds me of earily Nirvana before they got big.</p>
 ]]></content:encoded>

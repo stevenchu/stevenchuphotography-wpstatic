@@ -1,8 +1,8 @@
-/* Copyright (c) 2009 Kelvin Luck (kelvin AT kelvinluck DOT com || http://www.kelvinluck.com)
- * Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) 
- * and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
+/* Copyright (c) 2009 Kelvin Luck (kelvin AT kelvinluck DOT com || https://www.kelvinluck.com)
+ * Dual licensed under the MIT (https://www.opensource.org/licenses/mit-license.php) 
+ * and GPL (https://www.opensource.org/licenses/gpl-license.php) licenses.
  * 
- * See http://kelvinluck.com/assets/jquery/jScrollPane/
+ * See https://kelvinluck.com/assets/jquery/jScrollPane/
  * $Id: jScrollPane.js 93 2010-06-01 08:17:28Z kelvin.luck $
  */
 
@@ -39,7 +39,7 @@
  *								observeHash		-	Whether jScrollPane should attempt to automagically scroll to the correct place when an anchor inside the scrollpane is linked to (default true)
  * @return jQuery
  * @cat Plugins/jScrollPane
- * @author Kelvin Luck (kelvin AT kelvinluck DOT com || http://www.kelvinluck.com)
+ * @author Kelvin Luck (kelvin AT kelvinluck DOT com || https://www.kelvinluck.com)
  */
 
 (function($) {
@@ -75,7 +75,7 @@ $.fn.jScrollPane = function(settings)
 				$this.css({'top':0});
 			} else {
 				$this.data('originalStyleTag', $this.attr('style'));
-				// Switch the element's overflow to hidden to ensure we get the size of the element without the scrollbars [http://plugins.jquery.com/node/1208]
+				// Switch the element's overflow to hidden to ensure we get the size of the element without the scrollbars [https://plugins.jquery.com/node/1208]
 				$this.css('overflow', 'hidden');
 				this.originalPadding = $this.css('paddingTop') + ' ' + $this.css('paddingRight') + ' ' + $this.css('paddingBottom') + ' ' + $this.css('paddingLeft');
 				this.originalSidePaddingTotal = (parseInt($this.css('paddingLeft')) || 0) + (parseInt($this.css('paddingRight')) || 0);
@@ -112,7 +112,7 @@ $.fn.jScrollPane = function(settings)
 			trackHeight = paneHeight;
 			
 			if (settings.reinitialiseOnImageLoad) {
-				// code inspired by jquery.onImagesLoad: http://plugins.jquery.com/project/onImagesLoad
+				// code inspired by jquery.onImagesLoad: https://plugins.jquery.com/project/onImagesLoad
 				// except we re-initialise the scroll pane when each image loads so that the scroll pane is always up to size...
 				// TODO: Do I even need to store it in $.data? Is a local variable here the same since I don't pass the reinitialiseOnImageLoad when I re-initialise?
 				var $imagesToLoad = $.data(paneEle, 'jScrollPaneImagesToLoad') || $('img', $this);

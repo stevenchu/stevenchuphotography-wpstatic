@@ -7,11 +7,11 @@ function format_tweets(tweetdata) {
                 return '<a href="' + url + '">' + url + '</a>';
             }).replace(/\B#(\w+)/g,
             function(hash) {
-                return  hash.charAt(0) + '<a href="http://search.twitter.com/search?q=' + hash.substring(1) + '">' + hash.substring(1) + '</a>';
+                return  hash.charAt(0) + '<a href="search.twitter.com/search?q=' + hash.substring(1) + '">' + hash.substring(1) + '</a>';
             }).replace(/\B@([_a-z0-9]+)/ig, function(reply) {
-                return  reply.charAt(0) + '<a href="http://twitter.com/' + reply.substring(1) + '">' + reply.substring(1) + '</a>';
+                return  reply.charAt(0) + '<a href="twitter.com/' + reply.substring(1) + '">' + reply.substring(1) + '</a>';
             });
-        statusHTML.push('<li><span>' + status + '</span><small><a href="http://twitter.com/' + username + '/statuses/' + tweetdata[i].id_str + '">' + relative_time(tweetdata[i].created_at) + '</a></small></li>');
+        statusHTML.push('<li><span>' + status + '</span><small><a href="twitter.com/' + username + '/statuses/' + tweetdata[i].id_str + '">' + relative_time(tweetdata[i].created_at) + '</a></small></li>');
     }
     return statusHTML.join('');
 }

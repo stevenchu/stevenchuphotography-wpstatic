@@ -2,7 +2,7 @@
 
 /*
 * Jssor.Slider 18.0
-* http://www.jssor.com/
+* https://www.jssor.com/
 * 
 * TERMS OF USE - Jssor.Slider
 * 
@@ -2316,8 +2316,8 @@ new function () {
             ///		base slide duration in milliseconds to calculate the whole duration to complete this play request.
             ///	    default value is '$SlideDuration' value which is specified when initialize the slider.
             ///	</param>
-            /// http://msdn.microsoft.com/en-us/library/vstudio/bb385682.aspx
-            /// http://msdn.microsoft.com/en-us/library/vstudio/hh542720.aspx
+            /// https://msdn.microsoft.com/en-us/library/vstudio/bb385682.aspx
+            /// https://msdn.microsoft.com/en-us/library/vstudio/hh542720.aspx
             if (_CarouselEnabled && (!_IsDragging || _Options.$NaviQuitDrag)) {
                 _IsSliding = true;
                 _IsDragging = false;
@@ -4066,4 +4066,4 @@ var $JssorCaptionSlider$ = window.$JssorCaptionSlider$ = function (container, ca
 //$EVT_SLIDESHOW_START = 206;   function(slideIndex[, progressBegin, slideshowBegin, slideshowEnd, progressEnd])
 //$EVT_SLIDESHOW_END = 207;     function(slideIndex[, progressBegin, slideshowBegin, slideshowEnd, progressEnd])
 
-//http://www.jssor.com/development/reference-api.html
+//https://www.jssor.com/development/reference-api.html
