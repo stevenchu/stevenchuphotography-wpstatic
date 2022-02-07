@@ -1,0 +1,11 @@
+@import url("https://stevenchu.com/cc77df89fd4a48.css");
+body{background:white url("https://stevenchu.com/assets/scbg.jpg") repeat scroll left top;}
+#nav{background-color:white;}
+#header{background:url("https://stevenchu.com/assets/sc.png") no-repeat -10px -10px;}
+#headerfade{background:url("https://stevenchu.com/assets/sc.png") no-repeat -10px -10px;}
+#e {background:url('https://stevenchu.com/assets/sc.png') no-repeat 0% -275px}
+.has-js .label_radio    { width:20px;background: url(https://stevenchu.com/assets/sc.png) no-repeat -10px -460px}
+.has-js .label_check    { width:20px;background: url(https://stevenchu.com/assets/sc.png) no-repeat -10px -540px}
+.has-js .label_radio:hover, .has-js label.r_on      { width:20px;background: url(https://stevenchu.com/assets/sc.png) no-repeat -10px -500px; }
+.has-js .label_check:hover, .has-js label.c_on      { width:20px;background: url(https://stevenchu.com/assets/sc.png) no-repeat -10px -580px; }
+#content{color:black;}

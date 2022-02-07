@@ -1,0 +1,46 @@
+/* Single Fluid Width Column (iPhone) ----------------------------------------
+   Layout for screens that are 620px or less */
+@media only screen
+and (max-width: 559px) {
+	#nav, form {position:absolute !important;}
+	#nav {background: transparent !important;}
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+
+}
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+
+}
+
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+	#nav, form {
+		position: absolute !important;
+	}
+	#nav {background: transparent !important;}
+	
+}
+
+/* iPhone 4 ----------- */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+	#nav, form {
+		position:absolute !important;
+	}
+	#nav {background: transparent !important;}
+	
+}

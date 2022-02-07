@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Spontaneous Dancing &#8211; Steven Chu &#8211; Photographer &amp; Visual Experience Designer New York</title>
+	<atom:link href="https://stevenchu.com/tag/spontaneous-dancing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stevenchu.com/</link>
+	<description>The culture of New York, shaped through photography, iconic brand development, and community building in nightlife.</description>
+	<lastBuildDate>Thu, 19 Apr 2018 20:01:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.19</generator>
+	<item>
+		<title>On a whim with Kayu &#8211; No. 1</title>
+		<link>https://stevenchu.com/work/on-a-whim-with-kayu/</link>
+		<pubDate>Mon, 17 Feb 2014 07:20:30 +0000</pubDate>
+		<dc:creator><![CDATA[Steven Chu]]></dc:creator>
+				<category><![CDATA[Adler Planetarium]]></category>
+		<category><![CDATA[Chicago]]></category>
+		<category><![CDATA[On A Whim]]></category>
+		<category><![CDATA[Spontaneous Dancing]]></category>
+		<category><![CDATA[Spontaneous Fun]]></category>
+
+		<guid isPermaLink="false">https://stevenchu.com/?post_type=portfolio&#038;p=584</guid>
+		<description><![CDATA[On a whim with Kayu &#8211; No. 1 &#8211; Chicago, 2014]]></description>
+				<content:encoded><![CDATA[<p>On a whim with Kayu &#8211; No. 1 &#8211; Chicago, 2014</p>
+<div style="opacity:0;position:absolute;">
+<img src="https://stevenchu.com/wp-content/uploads/2014/02/onawhim-1-kayu-stevenchu.jpg" alt="On a whim with Kayu - No. 1 - Chicago, 2014" width="600" height="800" class="alignnone size-full wp-image-587" srcset="https://stevenchu.com/wp-content/uploads/2014/02/onawhim-1-kayu-stevenchu.jpg 600w, https://stevenchu.com/wp-content/uploads/2014/02/onawhim-1-kayu-stevenchu-300x400.jpg 300w, https://stevenchu.com/wp-content/uploads/2014/02/onawhim-1-kayu-stevenchu-400x533.jpg 400w" sizes="(max-width: 600px) 100vw, 600px" />
+</div>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

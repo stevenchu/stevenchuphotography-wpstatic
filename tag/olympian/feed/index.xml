@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>olympian &#8211; Steven Chu &#8211; Photographer &amp; Visual Experience Designer New York</title>
+	<atom:link href="https://stevenchu.com/tag/olympian/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stevenchu.com/</link>
+	<description>The culture of New York, shaped through photography, iconic brand development, and community building in nightlife.</description>
+	<lastBuildDate>Thu, 19 Apr 2018 20:01:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.19</generator>
+	<item>
+		<title>U.S. Olympic Fencer Portrait</title>
+		<link>https://stevenchu.com/work/olympic-medalist/</link>
+		<pubDate>Fri, 26 Oct 2012 20:29:22 +0000</pubDate>
+		<dc:creator><![CDATA[Steven Chu]]></dc:creator>
+				<category><![CDATA[fencing]]></category>
+		<category><![CDATA[olympian]]></category>
+		<category><![CDATA[Olympic Silver Medalist]]></category>
+		<category><![CDATA[saber fencer]]></category>
+
+		<guid isPermaLink="false">https://stevenchu.com/?post_type=portfolio&#038;p=116</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sommertraum &#8211; Steven Chu &#8211; Photographer &amp; Visual Experience Designer New York</title>
+	<atom:link href="https://stevenchu.com/tag/sommertraum/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stevenchu.com/</link>
+	<description>The culture of New York, shaped through photography, iconic brand development, and community building in nightlife.</description>
+	<lastBuildDate>Thu, 19 Apr 2018 20:01:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.19</generator>
+	<item>
+		<title>Sommertraum</title>
+		<link>https://stevenchu.com/work/sommertraum/</link>
+		<pubDate>Fri, 27 Dec 2013 03:10:23 +0000</pubDate>
+		<dc:creator><![CDATA[Steven Chu]]></dc:creator>
+				<category><![CDATA[dreams]]></category>
+		<category><![CDATA[Michael Hartney]]></category>
+		<category><![CDATA[New York]]></category>
+		<category><![CDATA[sommertagtraum]]></category>
+		<category><![CDATA[sommertraum]]></category>
+		<category><![CDATA[Staten Island]]></category>
+		<category><![CDATA[surrealism]]></category>
+
+		<guid isPermaLink="false">https://stevenchu.com/?post_type=portfolio&#038;p=487</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<div style="opacity:0;position:absolute;"><img src="https://stevenchu.com/wp-content/uploads/2013/12/holding_onto_dreams_stevenchu_1-1140x855.jpg" alt="Steven Chu - Photographer, Visual Consultant, Artist" width="1140" height="855" class="alignnone size-large wp-image-494" /></p>
+<p><img src="https://stevenchu.com/wp-content/uploads/2013/12/holding_onto_dreams_stevenchu_2-1140x1140.jpg" alt="Steven Chu - Photographer, Visual Consultant, Artist" width="1140" height="1140" class="alignnone size-large wp-image-495" /></p>
+<p><img src="https://stevenchu.com/wp-content/uploads/2013/12/holding_onto_dreams_stevenchu_3-1140x760.jpg" alt="Steven Chu - Photographer, Visual Consultant, Artist" width="1140" height="760" class="alignnone size-large wp-image-496" /></p>
+<p><img src="https://stevenchu.com/wp-content/uploads/2013/12/holding_onto_dreams_stevenchu_4-1140x1520.jpg" alt="Steven Chu - Photographer, Visual Consultant, Artist" width="1140" height="1520" class="alignnone size-large wp-image-497" /></p>
+<p><img src="https://stevenchu.com/wp-content/uploads/2013/12/holding_onto_dreams_stevenchu_5-1140x760.jpg" alt="Steven Chu - Photographer, Visual Consultant, Artist" width="1140" height="760" class="alignnone size-large wp-image-498" /></p>
+<p><img src="https://stevenchu.com/wp-content/uploads/2013/12/holding_onto_dreams_stevenchu_6-1140x760.jpg" alt="Steven Chu - Photographer, Visual Consultant, Artist" width="1140" height="760" class="alignnone size-large wp-image-499" /></div>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>horse head &#8211; Steven Chu &#8211; Photographer &amp; Visual Experience Designer New York</title>
+	<atom:link href="https://stevenchu.com/tag/horse-head/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stevenchu.com/</link>
+	<description>The culture of New York, shaped through photography, iconic brand development, and community building in nightlife.</description>
+	<lastBuildDate>Thu, 19 Apr 2018 20:01:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.19</generator>
+	<item>
+		<title>Academy of the Frozen</title>
+		<link>https://stevenchu.com/work/academy-of-the-frozen/</link>
+		<pubDate>Thu, 25 Oct 2012 02:51:45 +0000</pubDate>
+		<dc:creator><![CDATA[Steven Chu]]></dc:creator>
+				<category><![CDATA[Fornasetti]]></category>
+		<category><![CDATA[Frey Mudd]]></category>
+		<category><![CDATA[horse head]]></category>
+		<category><![CDATA[Lois Samuels]]></category>
+		<category><![CDATA[Piero Fornasetti]]></category>
+
+		<guid isPermaLink="false">https://stevenchu.com/?post_type=portfolio&#038;p=21</guid>
+		<description><![CDATA[Photography by Steven Chu Styling by Cliff Hoppus at Artists by Timothy Priano Hair by Linh Nguyen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Photography</strong> by <a href="https://stevenchu.com/">Steven Chu</a><br />
+<strong>Styling</strong> by <a href="http://cliffhoppus.com/">Cliff Hoppus</a> at Artists by Timothy Priano<br />
+<strong>Hair</strong> by Linh Nguyen for PR at Partners<br />
+<strong>Makeup</strong> by Aeriel Payne using M.A.C. Cosmetics<br />
+<strong>Models</strong> Frey Mudd, Mikael Larsson &amp; Evan Santoro @ <a href="http://models.com/agency/Red-Model-Management">Red Model Management</a>, Marshall Brockley &amp; Nick W @ <a href="http://models.com/agency/Request-Model-Management-NY">Request Model Management NY</a>, Thomas Hassler @ <a href="http://models.com/agency/Fusion-Models">Fusion Models</a>, Luca Schmitz @ <a href="http://models.com/agency/New-York-Model-Management">New York Model Management</a><br />
+<strong>Special Thanks</strong> to <a href="http://briankish.com/">Brian Kish Inc.</a> New York for loan of Italian art pieces.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

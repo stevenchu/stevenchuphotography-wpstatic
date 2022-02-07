@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rockaway Beach &#8211; Steven Chu &#8211; Photographer &amp; Visual Experience Designer New York</title>
+	<atom:link href="https://stevenchu.com/tag/rockaway-beach/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stevenchu.com/</link>
+	<description>The culture of New York, shaped through photography, iconic brand development, and community building in nightlife.</description>
+	<lastBuildDate>Thu, 19 Apr 2018 20:01:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.19</generator>
+	<item>
+		<title>Contrapposto</title>
+		<link>https://stevenchu.com/work/contrapposto/</link>
+		<pubDate>Mon, 20 May 2013 21:25:31 +0000</pubDate>
+		<dc:creator><![CDATA[Steven Chu]]></dc:creator>
+				<category><![CDATA[black cat portrait]]></category>
+		<category><![CDATA[Rockaway Beach]]></category>
+
+		<guid isPermaLink="false">https://stevenchu.com/?post_type=portfolio&#038;p=559</guid>
+		<description><![CDATA[(Lois&#8217; Cats) Rockaway Beach, May 2008 (Alternatively: May 25, 2008 – The day I learned to surf) [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>(Lois&#8217; Cats) Rockaway Beach, <em>May 2008</em><br />
+(Alternatively: May 25, 2008 – The day I learned to surf)</p>
+<div style="opacity:0;position:absolute;">
+Photographer: Steven Chu</p>
+<p><img src="https://stevenchu.com/wp-content/uploads/2014/01/LoisCats_RockawayBeach_2008_stevenchu-1140x758.jpg" alt="Lois' Cats - Rockaway Beach, May 2008 - Photographer Steven Chu" width="1140" height="758" class="alignnone size-large wp-image-560" srcset="https://stevenchu.com/wp-content/uploads/2014/01/LoisCats_RockawayBeach_2008_stevenchu-1140x758.jpg 1140w, https://stevenchu.com/wp-content/uploads/2014/01/LoisCats_RockawayBeach_2008_stevenchu-600x399.jpg 600w, https://stevenchu.com/wp-content/uploads/2014/01/LoisCats_RockawayBeach_2008_stevenchu-745x495.jpg 745w, https://stevenchu.com/wp-content/uploads/2014/01/LoisCats_RockawayBeach_2008_stevenchu-300x200.jpg 300w, https://stevenchu.com/wp-content/uploads/2014/01/LoisCats_RockawayBeach_2008_stevenchu-400x266.jpg 400w, https://stevenchu.com/wp-content/uploads/2014/01/LoisCats_RockawayBeach_2008_stevenchu.jpg 1200w" sizes="(max-width: 1140px) 100vw, 1140px" />
+</div>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

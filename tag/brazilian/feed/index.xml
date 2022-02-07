@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Brazilian &#8211; Steven Chu &#8211; Photographer &amp; Visual Experience Designer New York</title>
+	<atom:link href="https://stevenchu.com/tag/brazilian/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stevenchu.com/</link>
+	<description>The culture of New York, shaped through photography, iconic brand development, and community building in nightlife.</description>
+	<lastBuildDate>Thu, 19 Apr 2018 20:01:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.19</generator>
+	<item>
+		<title>FLOAT</title>
+		<link>https://stevenchu.com/work/float-mateus-lages-daisuke-ueda-sid-ellison-jesse-shannon/</link>
+		<pubDate>Tue, 21 May 2013 12:43:40 +0000</pubDate>
+		<dc:creator><![CDATA[Steven Chu]]></dc:creator>
+				<category><![CDATA[Brazilian]]></category>
+		<category><![CDATA[Daisuke Ueda]]></category>
+		<category><![CDATA[Jesse Shannon]]></category>
+		<category><![CDATA[Jonathan & Kevin Sampaio]]></category>
+		<category><![CDATA[Jonathan Sampaio]]></category>
+		<category><![CDATA[Kevin Sampaio]]></category>
+		<category><![CDATA[Mateus Lages]]></category>
+		<category><![CDATA[model]]></category>
+		<category><![CDATA[New York]]></category>
+		<category><![CDATA[New York Models]]></category>
+		<category><![CDATA[Request Models]]></category>
+		<category><![CDATA[Sangil Kim]]></category>
+		<category><![CDATA[Sid Ellison]]></category>
+
+		<guid isPermaLink="false">https://stevenchu.com/?post_type=portfolio&#038;p=365</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+	</channel>
+</rss>

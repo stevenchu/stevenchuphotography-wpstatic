@@ -1,0 +1,820 @@
+/*
+/*	Background Images
+/*-----------------------------------------------------------------------------------*/
+body {
+    /*background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/bg.jpg");*/
+}
+
+.social-icon {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/social-sprite.png");
+}
+
+.widget ul > li,
+.page-template-template-archives-php #main li {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/li-icons.png");
+}
+
+.icon-plus {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/slider_next.png");
+}
+
+.header .social li.twitter a {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/icons/twitter_bird.png");
+}
+
+.header .social li.facebook a {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/icons/facebook.png");
+}
+
+.header .social li.gplus a {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/icons/gplus.png");
+}
+
+.header .social li.dribble a {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/icons/dribbble.png");
+}
+
+.header .social li.vimeo a {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/icons/vimeo.png");
+}
+
+.header .social li.youtube a {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/icons/youtube.png");
+}
+
+.header .social li.linkedin a {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/icons/linkedin.png");
+}
+
+.header .social li.pinterest a {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/icons/pinterest.png");
+}
+
+.header .social li.flickr a {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/icons/flickr.png");
+}
+
+.conf {
+    background: url("https://stevenchu.com/wp-content/themes/scbold/images/confetti.png") no-repeat;
+}
+
+.bnp {
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/next_prev.png");
+    width: 140px;
+    height: 140px;
+}
+
+/*
+/*
+/*
+/*
+/*
+/*
+/*	Colors
+/*-----------------------------------------------------------------------------------*/
+body {
+    color: #333333;
+    background-color: #ff6867;
+
+}
+
+input, textarea {
+    color: #525252;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.type-post .entry-title > a,
+.comment-meta ul.extra .name,
+.pslider .info .title > a,
+div.recent.blog div.post.hentry .title > a {
+    color: #2e2e2e;
+}
+
+.header .title .text {
+    color: #38393e;
+}
+
+.items div.portfolio.hentry {
+    background-color: #2e2e2e;
+}
+
+.items div.portfolio.hentry span.title {
+    color: #fff;
+    text-shadow: none;
+}
+
+.items div.portfolio.hentry span.tags,
+.pslider .info .tags {
+    color: #888;
+
+}
+
+a {
+    color: #000;
+}
+
+a:hover,
+.type-post .entry-title>a:hover,
+.pslider .info .title>a:hover,
+div.recent.blog div.post.hentry  .title > a:hover {
+    color: #38393e;
+}
+
+/*.filter .categories a,*/
+/*.filter .categories a.category-item-default {*/
+/*color: #B1AD90;*/
+/*}*/
+
+/*.filter .categories a:hover,*/
+/*.filter .categories a.category-item-default:hover {*/
+/*color: #fffd74;*/
+/*}*/
+
+.filter .categories a.category-item-selected {
+    background-color: #fff;
+    color: #38393e;
+
+}
+
+.single-portfolio div.portfolio.hentry .info .entry-meta span {
+    color: #000;
+}
+
+.superlink, #comment-submit {
+    color: #38393e;
+}
+
+.superlink:hover, #comment-submit:hover {
+    background-color: #fff;
+    color: #38393e;
+}
+
+.social-icon {
+    background-color: #b2b2b6;
+}
+
+.social-icon:hover {
+    background-color: #ff6867;
+}
+
+.header .tagline {
+    color: #A36D69;
+}
+
+.format-gallery .navigation .icon {
+    background-color: #75201A;
+
+}
+
+.format-gallery .navigation .icon:hover {
+    background-color: #2e2e2e;
+}
+
+.format-link .entry-title-small {
+    /*color: #B1AD90;*/
+}
+
+.pvertical .asset .thumb {
+    background-color: #2e2e2e;
+}
+
+div.portfolio.recent .info .title,
+div.blog.recent .info .title {
+    /*color: #B1AD90;*/
+}
+
+.single-post .type-post .entry-meta {
+    color: #B2B2B6;
+}
+
+#contactForm .error {
+    color: #ff0000;
+}
+
+.widget .twitter li > small > a {
+    color: #B2B2B6;
+}
+
+.footer .text {
+    color: #38393e;
+}
+
+div.container.bottom,
+.single-post .footer,
+.page-template-template-home-php .footer,
+.page-template-template-contact-php .footer,
+.page-template-template-fullwidth-php .footer,
+.page-template-template-archives-php .footer,
+.page-template-default .footer,
+.error404 .footer {
+    background-color: #ffffff;
+}
+
+.page-template-template-home-php .infocolumns .column .superlink:hover,
+div.recent.blog .hentry .more-link:hover {
+    background-color: #000;
+    color: #ffffff;
+}
+
+.post-list .type-post .entry-title .over {
+    color: #fff;
+}
+
+.post-list .type-post .entry-meta .over {
+    color: #38393e;
+}
+
+.items div.portfolio.hentry span.overlay {
+    background-color: #000;
+}
+
+.single-post .type-post .entry-content p:first-child {
+    color: #000;
+}
+
+/*
+/*
+/*
+/*
+/*
+/*
+/*	Borders
+/*-----------------------------------------------------------------------------------*/
+input[type=text], textarea {
+    border: 1px solid #E5E6EC;
+}
+
+input[type=submit], button[type=submit] {
+    border: 1px solid #38393e;
+}
+
+div.recent.blog div.post.hentry {
+    border: none;
+}
+
+.comment-body {
+    border-left: 1px solid #888888;
+}
+
+li.comment #respond {
+    border-top: 1px solid #888;
+    border-bottom: 1px solid #888;
+}
+
+.bdivider {
+    border-bottom: 1px solid #38393e;
+}
+
+.superlink, #comment-submit {
+    border: 1px solid #38393e;
+}
+
+.superlink:hover, #comment-submit:hover,
+.filter .categories a.category-item-selected {
+    border: 1px solid #fff;
+}
+
+.single-post .type-post:after,
+.single-post ol.comment-list:after,
+.single-post ol.ping-list:after {
+    content: "";
+    display: block;
+    /*position: absolute;*/
+    width: 20px;
+    /*height: 30px;*/
+    border-bottom: 3px solid #000000;
+    visibility: visible !important;
+}
+
+.single-post ol.ping-list:after {
+    height: 30px;
+}
+
+.page-template-template-home-php .clients .logos img {
+    border-left: 1px solid #dfdfdf;
+}
+
+.page-template-template-home-php .clients .logos li:first-child img {
+    border: none;
+}
+
+div.navigation.container .row .twelvecol {
+    border-top: 1px solid #38393e;
+    border-bottom: 1px solid #38393e;
+}
+
+.footer .text:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 20px;
+    top: 0;
+    /*height: 30px;*/
+    border-bottom: 3px solid #38393e;
+    visibility: visible !important;
+}
+
+.infocolumns .column .title {
+    border-top: 1px solid #38393e;
+}
+
+.infocolumns .column .title:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 25px;
+    bottom: -10px;
+    /*height: 60px;*/
+    border-bottom: 4px solid #97E7B9;
+    visibility: visible !important;
+}
+
+div.recent.portfolio .info .title {
+    border-top: 1px solid #38393e;
+}
+
+div.recent.portfolio .info .title:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 25px;
+    bottom: -20px;
+    /*height: 60px;*/
+    border-bottom: 4px solid #97E7B9;
+    visibility: visible !important;
+}
+
+div.recent.blog .info .title,
+div.clients.row .title .text {
+    /*border-top: 4px solid #38393e;*/
+    border-bottom: 1px solid #38393e;
+}
+
+div.recent.blog .info .title:after,
+div.clients.row .title .text:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 25px;
+    top: 0px;
+    left: 0px;
+    /*height: 60px;*/
+    border-bottom: 4px solid #97E7B9;
+    visibility: visible !important;
+}
+
+div.recent.blog .line,
+div.clients.row .line {
+    position: relative;
+    margin-left: 30px;
+
+}
+div.recent.blog .line .color,
+div.clients.row .line .color {
+    position: absolute;
+    border-top: 4px solid #38393e;
+    width :100%;
+    height:4px;
+}
+div.recent.blog .hentry .title {
+    border-bottom: 4px solid #38393e;
+}
+div.clients.row .logos {
+    border: 1px solid #f1f1f1;
+    background-color:  #fbfbfb;
+}
+/*
+/*
+/*
+/*
+/*
+/*
+/*	Shadows
+/*-----------------------------------------------------------------------------------*/
+.shadow-small {
+
+    background-image: url("https://stevenchu.com/wp-content/themes/scbold/images/slider_shadow.png");
+    background-color: transparent;
+    height: 24px;
+    opacity: 1;
+    position: relative;
+    width: 100%;
+    z-index: 985;
+}
+
+/*
+/*
+/*
+/*
+/*
+/*
+/*	Other
+/*-----------------------------------------------------------------------------------*/
+
+.widget li a,
+.footer .text a,
+.entry-content a,
+.comment-meta ul.extra small a,
+.page-template-template-archives-php #main li a,
+.single-post .type-post .entry-meta li a {
+
+    color: #000;
+    padding: 2px 3px;
+    margin: -3px -2px -2px;
+    text-decoration: none;
+    -moz-transition: background-color 0.2s linear 0s, color 0.2s linear 0s;
+
+}
+
+.widget li a:hover,
+.footer .text a:hover,
+.entry-content a:hover,
+.widget .twitter li > small > a:hover,
+.comment-meta ul.extra small a:hover,
+.page-template-template-archives-php #main li a:hover,
+.single-post .type-post .entry-meta li a:hover {
+    background-color: #ff6867;
+    color: #000000;
+
+}
+
+::-moz-selection {
+    background: #2e2e2e;
+    color: #fff;
+    text-shadow: none;
+}
+
+::selection {
+    background: #2e2e2e;
+    color: #fff;
+    text-shadow: none;
+}
+
+/* problema*/
+.pvertical .info .tags {
+    color: #38393e;
+
+}
+
+/*
+/*
+/*
+/*
+/*
+/*
+/*	Objects
+/*-----------------------------------------------------------------------------------*/
+
+/*
+/*  menu
+/*-------*/
+.sf-menu a,
+.sf-menu a:visited,
+.sf-menu li span {
+    color: #303030;
+}
+
+.sf-menu > li > a {
+    border-top: 2px solid rgba(56, 57, 62, 0);;
+}
+
+.sf-menu .sub-menu li > a {
+    border-bottom: 2px solid rgba(56, 57, 62, 0);;
+}
+
+.sf-menu li li a,
+.sf-menu li li a:visited {
+    color: #303030;
+}
+
+.sf-menu a:focus,
+.sf-menu a:hover,
+.sf-menu a:active,
+.sf-menu .current-menu-item > a,
+.sf-menu li li a:focus,
+.sf-menu li li  a:hover,
+.sf-menu li li a:active,
+.sf-menu li li.current-menu-item > a {
+    color: #fff;
+
+}
+
+.sf-menu > li.current-menu-item > a,
+.sf-menu > li > a:active,
+.sf-menu > li > a:hover {
+    border-top: 2px solid rgba(56, 57, 62, 1);;
+}
+
+.sf-menu .sub-menu li.current-menu-item > a,
+.sf-menu .sub-menu  li > a:active,
+.sf-menu .sub-menu  li > a:hover {
+    border-bottom: 2px solid rgba(56, 57, 62, 1);;
+}
+
+.sf-menu ul {
+    border-left: 1px dotted #E7EBCD;
+    margin-left: -1px;
+}
+
+/*** shadows for all but IE6 ***/
+.sf-shadow ul {
+
+}
+
+/* responsive menu */
+.responsive-mainmenu {
+    -webkit-appearance: none;
+    background-image: url(https://stevenchu.com/wp-content/themes/scbold/images/responsive-menu-bg.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+/*
+/*  FlexSlider
+/*--------------*/
+
+.flexslider {
+    background: #fff;
+
+}
+
+.flexslider a,
+.flexslider a:hover {
+    border: none;
+}
+
+.flex-caption {
+    background: none;
+    /*text-shadow: 1px 1px 1px #000;*/
+
+}
+
+.flex-caption .title {
+    color: #fff;
+    /*background-color: #97E7B9;*/
+}
+
+.flex-caption .descr {
+    color: #fff;
+    /*background-color: #97E7B9;*/
+}
+
+.flex-direction-nav li a.flex-prev {
+    background-image: url(https://stevenchu.com/wp-content/themes/scbold/images/slider_prev.png);
+    background-repeat: no-repeat;
+}
+
+.flex-direction-nav li a.flex-next {
+    background-image: url(https://stevenchu.com/wp-content/themes/scbold/images/slider_next.png);
+    background-repeat: no-repeat;
+}
+
+.flex-direction-nav li .flex-prev,
+.flex-direction-nav li .flex-next {
+    background-color: #000;
+}
+
+.flex-direction-nav li .flex-prev:hover,
+.flex-direction-nav li .flex-next:hover {
+    /*background-color: #2e2e2e;*/
+}
+
+.flex-control-nav li a {
+    background-color: #888;
+}
+
+.flex-control-nav li a:hover {
+    background-color: #97E7B9;
+}
+
+.flex-control-nav li a.flex-active {
+    background-color: #97E7B9;
+}
+
+/*
+/*  Shortcodes
+/*--------------*/
+
+.alert.blue {
+    background: #E7F6FF;
+    color: #38393e;
+}
+
+.alert.red {
+    background: #FFDADA;
+    color: #38393e;
+}
+
+.alert.yellow {
+    background: #FFFCAD;
+    color: #38393e;
+}
+
+.alert.green {
+    background: #EEF3B9;
+    color: #38393e;
+}
+
+.demo-button span {
+}
+
+.button {
+    color: #000;
+    border: 1px solid #000;
+}
+
+.button.white {
+    background: none;
+    border-color: #000;
+    color: #000;
+}
+
+.button.white:hover {
+    background: #fff;
+    border-color: #fff;
+}
+
+.button.white a {
+    color: #000;
+}
+
+.button.gray {
+    background: none;
+    border-color: #555;
+    color: #555;
+}
+
+.button.gray:hover {
+    background: #555;
+    border-color: #555;
+    color: #fff;
+}
+
+.button.gray a {
+    color: #555;
+}
+
+.button.red {
+    background: none;
+    border-color: #ff6867;
+    color: #ff6867;
+}
+
+.button.red:hover {
+    background: #ff6867;
+    border-color: #ff6867;
+    color: #fff;
+}
+
+.button.red a {
+    color: #ff6867;
+}
+
+.button.orange {
+    background: none;
+    border-color: #fffa68;
+    color: #fffa68;
+}
+
+.button.orange:hover {
+    background: #fffa68;
+    border-color: #fffa68;
+    color: #fff;
+}
+
+.button.orange a {
+    color: #fffa68;
+}
+
+.button.green {
+    background: none;
+    border-color: #68ffa8;
+    color: #68ffa8;
+}
+
+.button.green:hover {
+    background: #68ffa8;
+    border-color: #68ffa8;
+    color: #fff;
+}
+
+.button.green a {
+    color: #68ffa8;
+}
+
+.button.blue {
+    background: none;
+    border-color: #68c5ff;
+    color: #68c5ff;
+}
+
+.button.blue:hover {
+    background: #68c5ff;
+    border-color: #68c5ff;
+    color: #fff;
+}
+
+.button.blue a {
+    color: #68c5ff;
+}
+
+.button.purple {
+    background: none;
+    border-color: #af68ff;
+    color: #af68ff;
+}
+
+.button.purple:hover {
+    background: #af68ff;
+    border-color: #af68ff;
+    color: #fff;
+}
+
+.button.purple a {
+    color: #af68ff;
+}
+
+.button.black {
+    background: none;
+    border-color: #000;
+    color: #000;
+}
+
+.button.black:hover {
+    background: #000;
+    border-color: #000;
+    color: #fff;
+}
+
+.button.black a {
+    color: #000;
+}
+
+.ui-tabs .ui-tabs-hide {
+}
+
+.tabs ul.nav li a {
+    border: 1px solid #888;
+    background: #efefef;
+    color: #2e2e2e;
+    border-bottom: none;
+}
+
+.tabs ul.nav li a:hover {
+    border: 1px solid #888;
+    background: #fff;
+    border-bottom: none;
+}
+
+.tabs ul.nav li.ui-tabs-selected a {
+    background: #fff;
+    border-bottom: none;
+}
+
+.tabs .tab {
+    background: #fff;
+    border: 1px solid #888;
+}
+
+.toggle h4 {
+    background: #dfdfdf;
+    border: 1px solid #888;
+}
+
+.toggle h4:hover {
+    background: #fff;
+    border: 1px solid #888;
+}
+
+.toggle-inner {
+    background: #fff;
+    border: 1px solid #888;
+    border-top: none;
+}
+
+.toggle .ui-icon {
+    background: #E7EBCD;
+}
+
+.toggle .ui-icon {
+    background: url(https://stevenchu.com/wp-content/themes/scbold/images/toggle-closed.png) no-repeat;
+}
+
+.toggle .ui-state-active .ui-icon {
+    background: url(https://stevenchu.com/wp-content/themes/scbold/images/toggle-open.png) no-repeat;
+}
+
+.divider {
+    border-top: 1px solid #888;
+}

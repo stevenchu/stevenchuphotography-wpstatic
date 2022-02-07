@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dior Homme &#8211; Steven Chu &#8211; Photographer &amp; Visual Experience Designer New York</title>
+	<atom:link href="https://stevenchu.com/tag/dior-homme/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stevenchu.com/</link>
+	<description>The culture of New York, shaped through photography, iconic brand development, and community building in nightlife.</description>
+	<lastBuildDate>Thu, 19 Apr 2018 20:01:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.19</generator>
+	<item>
+		<title>The Meatpacking, New York City</title>
+		<link>https://stevenchu.com/work/the-meatpacking-new-york-city/</link>
+		<pubDate>Wed, 10 Jun 2015 01:08:43 +0000</pubDate>
+		<dc:creator><![CDATA[Steven Chu]]></dc:creator>
+				<category><![CDATA[B&W]]></category>
+		<category><![CDATA[B&W Portrait]]></category>
+		<category><![CDATA[Dior Homme]]></category>
+		<category><![CDATA[Manhattan]]></category>
+		<category><![CDATA[Meatpacking District]]></category>
+		<category><![CDATA[New York]]></category>
+		<category><![CDATA[NYC]]></category>
+		<category><![CDATA[Prada]]></category>
+
+		<guid isPermaLink="false">https://stevenchu.com/?post_type=portfolio&#038;p=719</guid>
+		<description><![CDATA[This is NYC seen through my eyes in my early 20&#8217;s. In the meatpacking district- Restaurant Florent [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This is NYC seen through my eyes in my early 20&#8217;s. In the meatpacking district- Restaurant Florent was still there, the High Line was still train-track wilderness, and Dior Homme by Hedi Slimane was all the rage. These are outtakes from unofficial shoots I dug up from my archives. #tbt</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
